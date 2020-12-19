@@ -2,6 +2,8 @@
 
 ##React Employee Directory
 
+https://userdirectory44.herokuapp.com/
+
 ###Overview
 
 This is a React-based Employee Directory. The app uses Random User API to generate random users and populate the employee table when users load the page. The API generates up to 200 users per page load.
