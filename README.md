@@ -14,6 +14,8 @@ To run the app in development mode, 'npm start' in your local terminal. Open htt
 ###Production
 This app is deployed in GitHub Pages using the Create React App docs for deployment..
 
-Take the app for a spin by clicking on the link. (https://katrinamaris17.github.io/Employee-Directory/)
+
 
 ###Final Product
+
+![Screenshot (36)](https://user-images.githubusercontent.com/60905286/102701963-c8763780-4211-11eb-810e-254cbccbc7eb.png)
